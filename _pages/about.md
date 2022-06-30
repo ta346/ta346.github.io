@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am Khusel Avirmed
+
+Development Economics + Climate Change + Poverty alleviation 

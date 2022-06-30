@@ -86,12 +86,11 @@ analytics:
 author:
   name             : "Khusel Avirmed"
   avatar           : "tk_profile.png"
-  bio              : 
+  bio              : ""
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-
   email            : "ta346@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
