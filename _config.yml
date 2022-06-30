@@ -8,7 +8,9 @@
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"
-    
+
+minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Khusel Avirmed"
@@ -86,7 +88,7 @@ analytics:
 author:
   name             : "Khusel Avirmed"
   avatar           : "tk_profile.png"
-  bio              : "MS Applied Economics and Management at Cornell University"
+  bio              : ""
   location         : 
   employer         :
   pubmed           : 

@@ -7,8 +7,11 @@ redirect_from:
   - /resume
 ---
 
-*Working Paper*
+### Working Papers
 
-Current Research Project
-"Rangeland Quality in Mongolia: Measuring Impacts from Livestock and Climate Change.", with Avralt-Od Purevjav and Tumenkhusel Avirmed (lead authors), Steve Wilcox, and Christopher B. Barrett.
-Satellite-derived grassland degradation alert systems: Can it restore grassland health? 
+*"Decomposing the drivers of rangeland degradation in Mongolia: Climate Change is underestimated?"*, with Avralt-Od Purevjav, Steve Wilcox, and Christopher B. Barrett.
+
+### Other Projects
+
+"Monitoring Rangeland Health in Mongolia" 
+[Access to a prototype](http://green-summer.herokuapp.com/)
